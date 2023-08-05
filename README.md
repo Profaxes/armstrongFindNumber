@@ -1,0 +1,2 @@
+# armstrongFindNumber
+armstrongFindNumber
